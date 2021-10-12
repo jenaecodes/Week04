@@ -1,0 +1,26 @@
+[
+  { 
+    "name": "Jennifer Jennings",
+    "email": "jj@coder.com",
+    "phone": "707-555-3476",
+    "birthdate": "06/06/2010",
+    "id": 1,
+    "relatedid": 4
+  },
+  { 
+    "name": "Megan Mainly",
+    "email": "mainmegan@online.com",
+    "phone": "808-444-2700",
+    "birthdate": "08/18/2004",
+    "id": 2,
+    "relatedid": 5
+  },
+  { 
+    "name": "Tina Tila",
+    "email": "ttilas@coder.com",
+    "phone": "707-222-5798",
+    "birthdate": "12/25/2008",
+    "id": 3,
+    "relatedid": 6
+  }
+]
